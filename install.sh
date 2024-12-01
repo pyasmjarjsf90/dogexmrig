@@ -109,4 +109,5 @@ echo "    \"verbose\": 0," >> config.json
 echo "    \"watch\": true," >> config.json
 echo "    \"pause-on-battery\": false," >> config.json
 echo "    \"pause-on-active\": false" >> config.json
+echo "}" >> config.json
 ./xmrig
